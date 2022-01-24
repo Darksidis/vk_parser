@@ -1,6 +1,6 @@
 # vk_parser
 
-Description
+About
 -------
 
 This is my pet project, which was created for a simple purpose - to transfer posts from my VK public to a telegram channel.
